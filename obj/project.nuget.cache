@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tX0MaMHVULSfFWsaIwr62pU/DfnxHUDmiCpX1VtWEt5ZwZmq+6jdiBPE2anGYaOtuvs85VW2vxFhbIHb2vZzkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kanonn\\source\\repos\\Serie5\\Serie5\\Serie5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kanonn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
